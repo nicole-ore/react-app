@@ -1,0 +1,12 @@
+.Movie {
+    text-align:left;
+    background-color: lightgrey;
+    border: 2px solid black;
+
+}
+h4 {
+    color: orange;
+}
+h2{
+    font-weight: bold;
+}
